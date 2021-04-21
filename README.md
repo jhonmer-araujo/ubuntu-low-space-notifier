@@ -7,7 +7,7 @@ The ubuntu server should have email server installed.
 ### Tips:
 Add a task in Crontab for run the script daily.
 
-Ex:
+E.g.:
 
 `crontab -e`
 
